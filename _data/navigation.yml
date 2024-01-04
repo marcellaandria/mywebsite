@@ -1,0 +1,10 @@
+items:
+
+- title: Comment ça ce passe
+  url: howto.html
+
+- title: Qui suis-je?
+  url: howIam.html
+
+- title: Ateliers
+  url: workshops.html
